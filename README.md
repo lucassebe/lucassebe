@@ -1,11 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassebe&label=Profile%20views&color=0e75b6&style=flat" alt="lucassebe" /> </p>
 
-<img align="right" width="350" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/04/14232157/capa-produtividade-400x280.png"/>
+<img align="right"  width="250" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/04/14232157/capa-produtividade-400x280.png"/>
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## 👩‍💻 Lucas Sebe - QA Engineer
 
 Working in the Software Quality field since 2021, I bring expertise in both manual and automated testing of WEB, APIs, and microservices. I have been involved in projects utilizing a variety of automation languages and frameworks, contributing to both their creation and maintenance. Moreover, I possess hands-on experience in Front-End WEB development using React and Angular.
+
 Currently working at [WarmUP](https://warmupweb.com.br/)
 
 
@@ -16,10 +17,11 @@ Currently working at [WarmUP](https://warmupweb.com.br/)
 
 ## 🚀💻 Technologies & Tools
 
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
+![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -38,6 +40,6 @@ Currently working at [WarmUP](https://warmupweb.com.br/)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 
 
