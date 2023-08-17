@@ -8,7 +8,6 @@
 Working in the Software Quality field since 2021, I bring expertise in both manual and automated testing of WEB, APIs, and microservices. I have been involved in projects utilizing a variety of automation languages and frameworks, contributing to both their creation and maintenance. Moreover, I possess hands-on experience in Front-End WEB development using React and Angular.
 Currently working at [WarmUP](https://warmupweb.com.br/)
 
-I'm learning at the moment **ReactJS and Node**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucassebe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-sebe/)](https://www.linkedin.com/in/lucas-sebe/)
