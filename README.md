@@ -5,7 +5,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## 👩‍💻 Lucas Sebe - QA Engineer
 
-Working in the Software Quality field since 2021, I bring expertise in both manual and automated testing of web applications, APIs, and microservices. I have actively participated in projects that involve a diverse range of automation languages and frameworks, contributing to their development and ongoing maintenance. Additionally, I have gained hands-on experience in Front-End web development, employing technologies such as React and Angular and Back-End using NodeJS and JAVA.
+Web Developer working in the Software Quality field since 2021, I bring expertise in both manual and automated testing of web applications, APIs, and microservices. I have actively participated in projects that involve a diverse range of automation languages and frameworks, contributing to their development and ongoing maintenance. 
 
 Currently working at [WarmUP](https://warmupweb.com.br/)
 
